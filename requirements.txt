@@ -1,0 +1,5 @@
+fastapi==0.95.0
+firebase_admin==6.1.0
+nba_api==1.2
+pytz==2022.1
+requests==2.26.0
